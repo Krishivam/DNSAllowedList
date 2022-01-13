@@ -1,2 +1,3 @@
 costco.com
 macys.com
+sentry.io
